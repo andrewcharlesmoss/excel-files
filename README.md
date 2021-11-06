@@ -1,7 +1,7 @@
 # excel-files
 Complementary Excel files for articles found at https://andrewcharlesmoss.medium.com/.
 
-2020-US-Election-Simulator-v2.xlsm
+2020-US-Election-Simulator-v2.xlsm  
 https://medium.com/swlh/united-states-2020-presidential-election-simulator-90afdde04b81
 
 2020-US-Election-Simulator.xlsm
