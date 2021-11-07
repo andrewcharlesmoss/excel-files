@@ -10,10 +10,10 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 [Calculate-Values-in-Same-Cell-Examples.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Calculate-Values-in-Same-Cell-Examples.xlsb)  
 [How to Calculate Multiple Values in the Same Cell](https://medium.com/codex/how-to-calculate-multiple-values-in-the-same-cell-6b492b94b1bb)
 
-[Cell-Error-Examples.xlsb]  
+[Cell-Error-Examples.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Cell-Error-Examples.xlsb)  
 [Excel Cell Errors Explained](https://medium.com/codex/excel-cell-errors-explained-2bc250f56fa)
 
-Combining-Lists.xlsx  
+[Combining-Lists.xlsx](https://github.com/andrewcharlesmoss/excel-files/raw/master/Combining-Lists.xlsx)  
 [Combining Multiple Excel Tables Into One](https://medium.com/swlh/combining-multiple-tables-into-one-c21aa5bdf36f)
 
 Extracting-Unique-Values.xlsb  
