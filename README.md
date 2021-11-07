@@ -58,13 +58,12 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 
 ### Building a Premier League Results Matrix in Excel  
 
-[Article](https://medium.com/codex/building-a-premier-league-results-matrix-in-excel-b5d3a30a7c1d)
-
+[Article](https://medium.com/codex/building-a-premier-league-results-matrix-in-excel-b5d3a30a7c1d)  
 [Results-Matrix.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Results-Matrix.xlsb)  
 
 ### How to Build a Custom Ribbon in Excel  
 
-[Article](https://medium.com/codex/how-to-build-a-custom-ribbon-in-excel-a3bc531551e1)
+[Article](https://medium.com/codex/how-to-build-a-custom-ribbon-in-excel-a3bc531551e1)  
 [Ribbon-Example.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/Ribbon-Example.xlsm)  
 
 ### How Does Excel Handle Unfiltered and Hidden Rows?  
