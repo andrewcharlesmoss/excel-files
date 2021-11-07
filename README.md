@@ -14,31 +14,31 @@ Cell-Error-Examples.xlsb
 [Excel Cell Errors Explained](https://medium.com/codex/excel-cell-errors-explained-2bc250f56fa)
 
 Combining-Lists.xlsx  
-[](https://medium.com/swlh/combining-multiple-tables-into-one-c21aa5bdf36f)
+[Combining Multiple Excel Tables Into One](https://medium.com/swlh/combining-multiple-tables-into-one-c21aa5bdf36f)
 
 Extracting-Unique-Values.xlsb  
-[](https://medium.com/codex/how-to-extract-unique-values-in-excel-f8892fbecc48)
+[How to Extract Unique Values in Excel](https://medium.com/codex/how-to-extract-unique-values-in-excel-f8892fbecc48)
 
 Goal-Seek-Example.xlsb  
-[](https://andrewcharlesmoss.medium.com/how-to-use-goal-seek-in-excel-5c0fefc706f3)
+[How to Use Goal Seek in Excel](https://andrewcharlesmoss.medium.com/how-to-use-goal-seek-in-excel-5c0fefc706f3)
 
 How-Excel-Stores-and-Displays-Data.xlsm  
-[](https://medium.com/codex/how-excel-stores-and-displays-data-dddc12d9d104)
+[How Excel Stores and Displays Data](https://medium.com/codex/how-excel-stores-and-displays-data-dddc12d9d104)
 
 LAMBDA-Examples.xlsm  
-[](https://medium.com/codex/introducing-the-new-lambda-function-in-excel-4846c1b101db)
+[Introducing the New LAMBDA Function in Excel](https://medium.com/codex/introducing-the-new-lambda-function-in-excel-4846c1b101db)
 
 LET-Function-Example.xlsx  
-[](https://andrewcharlesmoss.medium.com/introducing-the-new-let-function-in-excel-ee9b0079d08f)
+[Introducing the New LET Function in Excel](https://andrewcharlesmoss.medium.com/introducing-the-new-let-function-in-excel-ee9b0079d08f)
 
 League-Table-Examples.xlsx  
-[](https://medium.com/swlh/building-an-excel-football-league-table-traditional-methods-vs-dynamic-arrays-15a1664489a9)
+[Building an Excel Football League Table — Traditional vs Dynamic Array Methods](https://medium.com/swlh/building-an-excel-football-league-table-traditional-methods-vs-dynamic-arrays-15a1664489a9)
 
 Results-Matrix.xlsb  
-[](https://medium.com/codex/building-a-premier-league-results-matrix-in-excel-b5d3a30a7c1d)
+[Building a Premier League Results Matrix in Excel](https://medium.com/codex/building-a-premier-league-results-matrix-in-excel-b5d3a30a7c1d)
 
 Ribbon-Example.xlsm  
-[](https://medium.com/codex/how-to-build-a-custom-ribbon-in-excel-a3bc531551e1)
+[How to Build a Custom Ribbon in Excel](https://medium.com/codex/how-to-build-a-custom-ribbon-in-excel-a3bc531551e1)
 
 Unfiltered-Rows-v-Hidden-Rows.xlsb  
-[](https://medium.com/codex/how-does-excel-handle-unfiltered-and-hidden-rows-d65b3bf516a9)
+[How Does Excel Handle Unfiltered and Hidden Rows?](https://medium.com/codex/how-does-excel-handle-unfiltered-and-hidden-rows-d65b3bf516a9)
