@@ -69,5 +69,5 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 
 ### How Does Excel Handle Unfiltered and Hidden Rows?  
 
-[Article](https://medium.com/codex/how-does-excel-handle-unfiltered-and-hidden-rows-d65b3bf516a9)
+[Article](https://medium.com/codex/how-does-excel-handle-unfiltered-and-hidden-rows-d65b3bf516a9)  
 [Unfiltered-Rows-v-Hidden-Rows.xlsb](https://github.com/andrewcharlesmoss/excel-files/blob/master/Unfiltered-Rows-v-Hidden-Rows.xlsb)  
