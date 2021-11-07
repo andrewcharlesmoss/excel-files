@@ -25,20 +25,20 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 [How-Excel-Stores-and-Displays-Data.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/How-Excel-Stores-and-Displays-Data.xlsm)  
 [How Excel Stores and Displays Data](https://medium.com/codex/how-excel-stores-and-displays-data-dddc12d9d104)
 
-LAMBDA-Examples.xlsm  
+[LAMBDA-Examples.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/LAMBDA-Examples.xlsm)  
 [Introducing the New LAMBDA Function in Excel](https://medium.com/codex/introducing-the-new-lambda-function-in-excel-4846c1b101db)
 
-LET-Function-Example.xlsx  
+[LET-Function-Example.xlsx](https://github.com/andrewcharlesmoss/excel-files/raw/master/LET-Function-Example.xlsx)  
 [Introducing the New LET Function in Excel](https://andrewcharlesmoss.medium.com/introducing-the-new-let-function-in-excel-ee9b0079d08f)
 
-League-Table-Examples.xlsx  
+[League-Table-Examples.xlsx](https://github.com/andrewcharlesmoss/excel-files/blob/master/League-Table-Examples.xlsx)  
 [Building an Excel Football League Table — Traditional vs Dynamic Array Methods](https://medium.com/swlh/building-an-excel-football-league-table-traditional-methods-vs-dynamic-arrays-15a1664489a9)
 
-Results-Matrix.xlsb  
+[Results-Matrix.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Results-Matrix.xlsb)  
 [Building a Premier League Results Matrix in Excel](https://medium.com/codex/building-a-premier-league-results-matrix-in-excel-b5d3a30a7c1d)
 
-Ribbon-Example.xlsm  
+[Ribbon-Example.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/Ribbon-Example.xlsm)  
 [How to Build a Custom Ribbon in Excel](https://medium.com/codex/how-to-build-a-custom-ribbon-in-excel-a3bc531551e1)
 
-Unfiltered-Rows-v-Hidden-Rows.xlsb  
+[Unfiltered-Rows-v-Hidden-Rows.xlsb](https://github.com/andrewcharlesmoss/excel-files/blob/master/Unfiltered-Rows-v-Hidden-Rows.xlsb)  
 [How Does Excel Handle Unfiltered and Hidden Rows?](https://medium.com/codex/how-does-excel-handle-unfiltered-and-hidden-rows-d65b3bf516a9)
