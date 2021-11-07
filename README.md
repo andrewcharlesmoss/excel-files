@@ -3,22 +3,22 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 
 ### United States 2020 Presidential Election Simulator v2 🔵 🔴  
 
-[Article](https://medium.com/swlh/united-states-2020-presidential-election-simulator-90afdde04b81)
+[Article](https://medium.com/swlh/united-states-2020-presidential-election-simulator-90afdde04b81)  
 [2020-US-Election-Simulator-v2.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/2020-US-Election-Simulator-v2.xlsm)  
 
 ### United States 2020 Presidential Election Simulator 🔵 🔴  
 
-[Article](https://andrewcharlesmoss.medium.com/united-states-2020-presidential-election-simulator-7407b4b001e2)
+[Article](https://andrewcharlesmoss.medium.com/united-states-2020-presidential-election-simulator-7407b4b001e2)  
 [2020-US-Election-Simulator.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/2020-US-Election-Simulator.xlsm)  
 
 ### How to Calculate Multiple Values in the Same Cell  
 
-[Article](https://medium.com/codex/how-to-calculate-multiple-values-in-the-same-cell-6b492b94b1bb)
+[Article](https://medium.com/codex/how-to-calculate-multiple-values-in-the-same-cell-6b492b94b1bb)  
 [Calculate-Values-in-Same-Cell-Examples.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Calculate-Values-in-Same-Cell-Examples.xlsb)  
 
 ### Excel Cell Errors Explained  
 
-[Article](https://medium.com/codex/excel-cell-errors-explained-2bc250f56fa)
+[Article](https://medium.com/codex/excel-cell-errors-explained-2bc250f56fa)  
 [Cell-Error-Examples.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Cell-Error-Examples.xlsb)  
 
 ### Combining Multiple Excel Tables Into One  
