@@ -28,45 +28,46 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 
 ### How to Extract Unique Values in Excel  
 
-[Extracting-Unique-Values.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Extracting-Unique-Values.xlsb)  
 [Article](https://medium.com/codex/how-to-extract-unique-values-in-excel-f8892fbecc48)
+[Extracting-Unique-Values.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Extracting-Unique-Values.xlsb)  
 
 ### How to Use Goal Seek in Excel
 
-[Goal-Seek-Example.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Goal-Seek-Example.xlsb)  
 [Article](https://andrewcharlesmoss.medium.com/how-to-use-goal-seek-in-excel-5c0fefc706f3)
+[Goal-Seek-Example.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Goal-Seek-Example.xlsb)  
 
 ### How Excel Stores and Displays Data  
 
-[How-Excel-Stores-and-Displays-Data.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/How-Excel-Stores-and-Displays-Data.xlsm)  
 [Article](https://medium.com/codex/how-excel-stores-and-displays-data-dddc12d9d104)
+[How-Excel-Stores-and-Displays-Data.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/How-Excel-Stores-and-Displays-Data.xlsm)  
 
 ### Introducing the New LAMBDA Function in Excel  
 
-[LAMBDA-Examples.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/LAMBDA-Examples.xlsm)  
 [Article](https://medium.com/codex/introducing-the-new-lambda-function-in-excel-4846c1b101db)
+[LAMBDA-Examples.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/LAMBDA-Examples.xlsm)  
 
 ### Introducing the New LET Function in Excel  
 
-[LET-Function-Example.xlsx](https://github.com/andrewcharlesmoss/excel-files/raw/master/LET-Function-Example.xlsx)  
 [Article](https://andrewcharlesmoss.medium.com/introducing-the-new-let-function-in-excel-ee9b0079d08f)
+[LET-Function-Example.xlsx](https://github.com/andrewcharlesmoss/excel-files/raw/master/LET-Function-Example.xlsx)  
 
 ### Building an Excel Football League Table — Traditional vs Dynamic Array Methods  
 
-[League-Table-Examples.xlsx](https://github.com/andrewcharlesmoss/excel-files/blob/master/League-Table-Examples.xlsx)  
 [Article](https://medium.com/swlh/building-an-excel-football-league-table-traditional-methods-vs-dynamic-arrays-15a1664489a9)
+[League-Table-Examples.xlsx](https://github.com/andrewcharlesmoss/excel-files/blob/master/League-Table-Examples.xlsx)  
 
 ### Building a Premier League Results Matrix in Excel  
 
-[Results-Matrix.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Results-Matrix.xlsb)  
 [Article](https://medium.com/codex/building-a-premier-league-results-matrix-in-excel-b5d3a30a7c1d)
+
+[Results-Matrix.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Results-Matrix.xlsb)  
 
 ### How to Build a Custom Ribbon in Excel  
 
-[Ribbon-Example.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/Ribbon-Example.xlsm)  
 [Article](https://medium.com/codex/how-to-build-a-custom-ribbon-in-excel-a3bc531551e1)
+[Ribbon-Example.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/Ribbon-Example.xlsm)  
 
 ### How Does Excel Handle Unfiltered and Hidden Rows?  
 
-[Unfiltered-Rows-v-Hidden-Rows.xlsb](https://github.com/andrewcharlesmoss/excel-files/blob/master/Unfiltered-Rows-v-Hidden-Rows.xlsb)  
 [Article](https://medium.com/codex/how-does-excel-handle-unfiltered-and-hidden-rows-d65b3bf516a9)
+[Unfiltered-Rows-v-Hidden-Rows.xlsb](https://github.com/andrewcharlesmoss/excel-files/blob/master/Unfiltered-Rows-v-Hidden-Rows.xlsb)  
