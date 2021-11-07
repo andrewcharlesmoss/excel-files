@@ -4,7 +4,7 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 [2020-US-Election-Simulator-v2.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/2020-US-Election-Simulator-v2.xlsm)  
 [United States 2020 Presidential Election Simulator v2 🔵 🔴](https://medium.com/swlh/united-states-2020-presidential-election-simulator-90afdde04b81)
 
-2020-US-Election-Simulator.xlsm  
+[2020-US-Election-Simulator.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/2020-US-Election-Simulator.xlsm)  
 [United States 2020 Presidential Election Simulator 🔵 🔴](https://andrewcharlesmoss.medium.com/united-states-2020-presidential-election-simulator-7407b4b001e2)
 
 Calculate-Values-in-Same-Cell-Examples.xlsb  
