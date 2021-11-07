@@ -53,7 +53,7 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 
 ### Building an Excel Football League Table — Traditional vs Dynamic Array Methods  
 
-[Article](https://medium.com/swlh/building-an-excel-football-league-table-traditional-methods-vs-dynamic-arrays-15a1664489a9)
+[Article](https://medium.com/swlh/building-an-excel-football-league-table-traditional-methods-vs-dynamic-arrays-15a1664489a9)  
 [League-Table-Examples.xlsx](https://github.com/andrewcharlesmoss/excel-files/blob/master/League-Table-Examples.xlsx)  
 
 ### Building a Premier League Results Matrix in Excel  
