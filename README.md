@@ -7,7 +7,7 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 [2020-US-Election-Simulator.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/2020-US-Election-Simulator.xlsm)  
 [United States 2020 Presidential Election Simulator 🔵 🔴](https://andrewcharlesmoss.medium.com/united-states-2020-presidential-election-simulator-7407b4b001e2)
 
-Calculate-Values-in-Same-Cell-Examples.xlsb  
+[Calculate-Values-in-Same-Cell-Examples.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Calculate-Values-in-Same-Cell-Examples.xlsb)  
 [How to Calculate Multiple Values in the Same Cell](https://medium.com/codex/how-to-calculate-multiple-values-in-the-same-cell-6b492b94b1bb)
 
 Cell-Error-Examples.xlsb  
