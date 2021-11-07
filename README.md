@@ -16,13 +16,13 @@ Complementary Excel files for articles found at [Medium](https://andrewcharlesmo
 [Combining-Lists.xlsx](https://github.com/andrewcharlesmoss/excel-files/raw/master/Combining-Lists.xlsx)  
 [Combining Multiple Excel Tables Into One](https://medium.com/swlh/combining-multiple-tables-into-one-c21aa5bdf36f)
 
-Extracting-Unique-Values.xlsb  
+[Extracting-Unique-Values.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Extracting-Unique-Values.xlsb)  
 [How to Extract Unique Values in Excel](https://medium.com/codex/how-to-extract-unique-values-in-excel-f8892fbecc48)
 
-Goal-Seek-Example.xlsb  
+[Goal-Seek-Example.xlsb](https://github.com/andrewcharlesmoss/excel-files/raw/master/Goal-Seek-Example.xlsb)  
 [How to Use Goal Seek in Excel](https://andrewcharlesmoss.medium.com/how-to-use-goal-seek-in-excel-5c0fefc706f3)
 
-How-Excel-Stores-and-Displays-Data.xlsm  
+[How-Excel-Stores-and-Displays-Data.xlsm](https://github.com/andrewcharlesmoss/excel-files/raw/master/How-Excel-Stores-and-Displays-Data.xlsm)  
 [How Excel Stores and Displays Data](https://medium.com/codex/how-excel-stores-and-displays-data-dddc12d9d104)
 
 LAMBDA-Examples.xlsm  
