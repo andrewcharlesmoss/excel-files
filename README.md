@@ -1,5 +1,5 @@
 # excel-files
-Complementary Excel files for articles found at [Medium](https://andrewcharlesmoss.medium.com/).  
+The table contains links to [Medium](https://andrewcharlesmoss.medium.com/) articles and complementary Excel files.  
 
 | #  | Date Published | Article                                                                                                                                                                                              | Workbook                                                                                                                                               |
 |----|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
