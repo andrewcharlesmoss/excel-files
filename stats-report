@@ -1,0 +1,55 @@
+
+
+STATSREPORT =
+
+LET(
+    // Define columns from the tblStats table
+    nameCol, tblStats[NAME],
+    goalsCol, tblStats[GOALS],
+    shotsCol, tblStats[SHOTS],
+    sotCol, tblStats[SOT],
+    convCol, tblStats[CONV %],
+
+    // Number of top teams to return
+    topN, 20,
+
+    // Create ranking sequence from 1 to topN
+    seq, SEQUENCE(topN, 1),
+
+    // Sort a column descending, with corresponding team names
+    sortByStat, 
+        LAMBDA(stat, SORTBY(HSTACK(nameCol, stat), -stat)),
+
+    // Return topN rows from sorted table, with ranks
+    getTopN, 
+        LAMBDA(data, HSTACK(seq, INDEX(data, seq, {1, 2}))),
+
+    // Apply sorting and get top N for each stat
+    goals, getTopN(sortByStat(goalsCol)),
+    shots, getTopN(sortByStat(shotsCol)),
+    sots, getTopN(sortByStat(sotCol)),
+    convs, getTopN(sortByStat(convCol)),
+
+    // Create blank columns for spacing
+    gapCol, MAKEARRAY(topN, 1, LAMBDA(r, c, "")),
+    gapHdr, MAKEARRAY(1, 1, LAMBDA(r, c, "")),
+
+    // Build the header row with gaps between stat blocks
+    headers, HSTACK(
+        {"#", "Team", "Goals"}, gapHdr,
+        {"#", "Team", "Shots"}, gapHdr,
+        {"#", "Team", "Shots on Target"}, gapHdr,
+        {"#", "Team", "Conversion Rate"}
+    ),
+
+    // Stack stat blocks horizontally with spacing
+    body, HSTACK(
+        goals, gapCol,
+        shots, gapCol,
+        sots, gapCol,
+        convs
+    ),
+
+    // Combine header and body into final table
+    VSTACK(headers, body)
+)
